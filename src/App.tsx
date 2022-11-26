@@ -1,5 +1,5 @@
 import React from 'react';
-import './assets/default.css';
+import '@/assets/default.css';
 
 function App(props) {
 	return (
